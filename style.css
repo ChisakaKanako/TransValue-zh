@@ -17,7 +17,7 @@ body {
 p {
     color: #444444;
     font-family: 'Roboto', sans-serif;
-    font-size: 18.5pt;
+    font-size: 24pt;
     line-height: 1.15;
     margin: 4pt;
 }
@@ -36,7 +36,7 @@ p.value {
 p.axis_name {
     margin-top: 50px;
     color: #333333;
-    font-size: 19pt;
+    font-size: 24pt;
     font-family: 'Montserrat';
 }
 p.question {
@@ -69,7 +69,7 @@ h1 {
 #twitplug {
   color: #333333;
   font-family: 'Montserrat', sans-serif;
-  font-size: 28pt;
+  font-size: 34pt;
   text-align: center;
   line-height: 28pt;
   margin-top: 0pt;
@@ -144,7 +144,7 @@ div.quadcolumn {
 }
 div.axis_name {
     color: #333333;
-    font-size: 19pt;
+    font-size: 24pt;
     font-family: 'Montserrat';
     display: inline-block;
     padding-bottom: 8.65pt;
@@ -198,7 +198,7 @@ div.axis_name {
     text-align: center;
     text-decoration: none;
     display: block;
-    font-size: 18pt;
+    font-size: 24pt;
     margin: -2px auto;
     cursor: pointer;
 }
